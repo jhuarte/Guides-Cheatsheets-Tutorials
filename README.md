@@ -3,6 +3,12 @@ Useful information about tutorials, guides and cheat sheets used to develop and 
 
 # Documentation
 
+## C/C++
+
+## Python
+
+## Dockers
+
 ## Git
 Git is the open source distributed version control system that facilitates GitHub activities on your laptop or desktop. A basic course to start using Git is Udacity free course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123), that covers the essentionals of using Git.
 
