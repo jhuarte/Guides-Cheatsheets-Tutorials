@@ -24,4 +24,4 @@ Also, you can bookmark either of the following two cheatsheets:
 # Contribute
 
 # About me
-My name is [Javier Huarte](https://github.com/jhuarte). I'm a Computer Science Engineer by EUPLA & UOC Univerties. Cycling and motorsport apossionated. Actually R&D Engineer at @ITAINNOVA.
+My name is [Javier Huarte](https://github.com/jhuarte) @jhuarte. I'm a Computer Science Engineer by EUPLA & UOC Univerties. Cycling and motorsport apossionated. Actually R&D Engineer at @ITAINNOVA.
