@@ -1,15 +1,15 @@
-#Helper
+# Helper
 Useful information about tutorials, guides and cheat sheets used to develop and document
 
-#Documentation
+# Documentation
 
-##Git
+## Git
 
-##Markdown
+## Markdown
 
-#Licence
+# Licence
 
-#Contribute
+# Contribute
 
-#About me
+# About me
 
