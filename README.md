@@ -6,6 +6,7 @@ This repository contains useful information about guides, cheat sheets and tutor
 * C/C++
 * Python
 * Dockers
+* ROS/ROS2
 * Git
 * Markdown
 
@@ -16,6 +17,8 @@ This repository contains useful information about guides, cheat sheets and tutor
 ## Python
 
 ## Dockers
+
+## ROS/ROS2
 
 ## Git
 Git is the open source distributed version control system that facilitates GitHub activities on your laptop or desktop. A basic course to start using Git is Udacity's free course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123), that covers the essentionals of using Git. There're planty good courses on the web, just take one, learn basic concepts and start working with git on your next project.
