@@ -1,7 +1,7 @@
 # Guides, cheat sheets and tutorials
 
 # Overview
-This repository contains useful information about tutorials, guides and cheat sheets used to develop and document. In general is very basic information, but enough to start. Read and practice.
+This repository contains useful information about guides, cheat sheets and tutorials used to develop and document. In general is very basic information, but enough to start. Read and practice.
 
 * C/C++
 * Python
