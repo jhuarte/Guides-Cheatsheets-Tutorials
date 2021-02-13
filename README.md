@@ -9,6 +9,7 @@ This repository contains useful information about guides, cheat sheets and tutor
 * ROS/ROS2
 * Git
 * Markdown
+* Machine learning
 
 # Content
 
@@ -34,6 +35,9 @@ Generate a clear and easy to understand documentation is a basic task of a proje
 Also, you can bookmark either of the following two cheatsheets:
 * [Github markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Cheatsheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Machine learning
+Machine learning and neuronal networks (and all the other stuffs around) are very hot topics (since many years). As in others topics there's tons of information but if you want some relative quick and with good balance between the kowledge requirements and results, I can recomend you the Machine Learning Course from Coursera. On this [link](https://github.com/vkosuri/CourseraMachineLearning) you can find all the documentation you nedd 
 
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
