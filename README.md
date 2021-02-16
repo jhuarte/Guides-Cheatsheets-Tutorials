@@ -10,6 +10,7 @@ This repository contains useful information about guides, cheat sheets and tutor
 * Git
 * Markdown
 * Machine learning
+* Computer vision (OpenCV)
 
 # Content
 
@@ -39,6 +40,11 @@ Also, you can bookmark either of the following two cheatsheets:
 ## Machine learning
 Machine learning and neuronal networks (and all the other stuffs around) are very hot topics (since many years). As in others topics there's tons of information but if you want some relative quick and with good balance between the kowledge requirements and results, I can recomend you the Machine Learning Course from Coursera. On this [link](https://github.com/vkosuri/CourseraMachineLearning) you can find all the documentation you nedd 
 
+## Computer vision (OpenCV)
+Like on the other topics computer vision is very useful tool for many things. OpenCV is one of the libraries used to deal with images and videos to obtain information.
+
+* [Learn OpenCV](https://learnopencv.com/)
+* [Computer vision and OoenCV](https://www.pyimagesearch.com/)
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
 
