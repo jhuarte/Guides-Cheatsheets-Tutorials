@@ -42,12 +42,17 @@ Machine learning and neuronal networks (and all the other stuffs around) are ver
 
 Other resources:
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-
+* [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+* 
+* 
 ## Computer vision (OpenCV)
 Like on the other topics computer vision is very useful tool for many things. OpenCV is one of the libraries used to deal with images and videos to obtain information.
 
 * [Learn OpenCV](https://learnopencv.com/)
 * [Computer vision and OoenCV](https://www.pyimagesearch.com/)
+* [Neural Networks and Deep Learning - Free book](http://neuralnetworksanddeeplearning.com/)
+* [Deep Learning - Free book](https://www.deeplearningbook.org/)
+
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
 
