@@ -45,6 +45,9 @@ Other resources:
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [Neural Networks and Deep Learning - Free book](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learning - Free book](https://www.deeplearningbook.org/) 
+
+One important topic for me is CNN for 3D point cloud data:
+* [Deep Learning for 3D Point Clouds: A Survey](https://github.com/QingyongHu/SoTA-Point-Cloud)
  
 ## Computer vision (OpenCV)
 Like on the other topics computer vision is very useful tool for many things. OpenCV is one of the libraries used to deal with images and videos to obtain information.
