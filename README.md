@@ -45,6 +45,7 @@ Other resources:
 * [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [Neural Networks and Deep Learning - Free book](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learning - Free book](https://www.deeplearningbook.org/) 
+* [CNNs comprehensive guide](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
 One important topic for me is CNN for 3D point cloud data:
 * [Deep Learning for 3D Point Clouds: A Survey](https://github.com/QingyongHu/SoTA-Point-Cloud)
