@@ -16,6 +16,9 @@ This repository contains useful information about guides, cheat sheets and tutor
 
 ## C/C++
 
+* [C++ Language Tutorial](http://www.cplusplus.com/doc/)
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
 ## Python
 
 ## Dockers
