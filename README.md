@@ -19,7 +19,9 @@ This repository contains useful information about guides, cheat sheets and tutor
 * [C++ Language Tutorial](http://www.cplusplus.com/doc/)
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Modern C++ Coding Guidelines](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
-* [ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)
+* [ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide).
+* [Doxygen](https://www.doxygen.nl/)
+* [Gtest](http://wiki.ros.org/gtest)
 
 ## Python
 
