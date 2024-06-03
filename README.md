@@ -32,6 +32,8 @@ This repository contains useful information about guides, cheat sheets and tutor
 ## Git
 Git is the open source distributed version control system that facilitates GitHub activities on your laptop or desktop. A basic course to start using Git is the udacity's free course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123), that covers the essentionals of using Git. There're planty good courses on the web, just take one, learn basic concepts and start working with git on your next project. Document a commit is very importat and [here](https://udacity.github.io/git-styleguide/) you can find a good guide to create consistant messages.
 
+Also [Altassian](https://www.atlassian.com/git) is a good place to start.
+
 These cheat sheets summarizes commonly used Git command line instructions for quick reference.
 
 * [GitHub - Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
